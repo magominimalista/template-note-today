@@ -23,3 +23,5 @@
 
 **Anotações:**
 Hoje...
+
+Nota: Para vizualizar o chekbox use o plugin não oficial: tasks.
